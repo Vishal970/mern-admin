@@ -40,3 +40,10 @@
   },
   "homepage": "https://github.com/idurar/starter-antd-admin-crud-auth-mern#readme"
 }
+
+{
+  "scripts": {
+    "test": "mocha --recursive"
+  }
+}
+
